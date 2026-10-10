@@ -1,0 +1,5 @@
+# Direct pins only, NOT a qualified transitive lock. Installation is held.
+mcp==1.29.0
+a2a-sdk==0.3.0
+httpx==0.28.1
+uvicorn==0.35.0
